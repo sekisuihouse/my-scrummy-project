@@ -1,7 +1,7 @@
 #include <SchooMyUtilities.h>
 #include <TM1637Display.h>
 SchooMyUtilities scmUtils = SchooMyUtilities();
-
+// 基礎プログラミングII 第3回 Scrummyプロジェクト
 TM1637Display num_display_14_15(14, 15);
 float i = 0;
 float count = 0;
